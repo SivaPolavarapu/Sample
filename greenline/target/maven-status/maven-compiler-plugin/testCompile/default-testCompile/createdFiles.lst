@@ -1,0 +1,3 @@
+com\test\greenline\stepdefinitions\GreenLineNavigateStepDefinitions.class
+com\test\greenline\suite\GreenLineTests.class
+com\test\greenline\steps\GreenLineNavigateSteps.class

@@ -1,0 +1,26 @@
+<acceptance-test-run title="ECA REST order shows up in the  orders grid" name="ECA REST order shows up in the  orders grid" description="" steps="6" successful="0" failures="0" skipped="0" ignored="0" pending="6" annotated-result="PENDING" result="PENDING" duration="245" timestamp="2018-09-06T21:18:24.490-04:00">
+  <user-story id="greenline-navigation" name="GreenLine Navigation" path="greenLine.feature"/>
+  <tags>
+    <tag name="Green line navigation" type="feature"/>
+    <tag name="GreenLine Navigation" type="feature"/>
+    <tag name="Green line" type="story"/>
+  </tags>
+  <test-step result="PENDING" duration="8">
+    <description>Given I want to navigate to GFR UI</description>
+  </test-step>
+  <test-step result="PENDING" duration="3">
+    <description>When I click on FBCP Application cluster</description>
+  </test-step>
+  <test-step result="PENDING" duration="1">
+    <description>Then I click on DashBoard</description>
+  </test-step>
+  <test-step result="PENDING" duration="2">
+    <description>Then I mouse over on FixMessage</description>
+  </test-step>
+  <test-step result="PENDING" duration="1">
+    <description>Then I click on Orders&amp;Execution</description>
+  </test-step>
+  <test-step result="PENDING" duration="2">
+    <description>Then I search for ClOrdID</description>
+  </test-step>
+</acceptance-test-run>

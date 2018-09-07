@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.test.greenline.suite.GreenLineTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 2, Skipped: 5, Time elapsed: 2.962 sec <<< FAILURE! - in com.test.greenline.suite.GreenLineTests
+Given I want to navigate to GFR UI(Scenario: ECA REST order shows up in the  orders grid)  Time elapsed: 0.01 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.test.greenline.stepdefinitions.GreenLineNavigateStepDefinitions.i_want_to_navigate_to_GFR_UI(GreenLineNavigateStepDefinitions.java:18)
+	at ?.Given I want to navigate to GFR UI(greenLine.feature:7)
+
+Scenario: ECA REST order shows up in the  orders grid  Time elapsed: 0.024 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.test.greenline.stepdefinitions.GreenLineNavigateStepDefinitions.i_want_to_navigate_to_GFR_UI(GreenLineNavigateStepDefinitions.java:18)
+	at ?.Given I want to navigate to GFR UI(greenLine.feature:7)
+
